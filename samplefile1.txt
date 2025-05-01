@@ -1,3 +1,2 @@
 this is first sample text file. making changes to the text file.
-:wq
-
+new changes during stash command practice.
